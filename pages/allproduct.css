@@ -1,0 +1,84 @@
+.second-row {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card-text {
+  font-family: fantasy;
+  font-weight: 300;
+}
+.card-image-top {
+  height: 300px;
+}
+.card {
+  display: flow-root;
+  justify-content: center;
+}
+.btn {
+  background-color: rgb(223, 223, 50);
+  border: none;
+  color: black;
+  font-weight: bolder;
+  width: fit-content;
+}
+
+.background {
+  background: url(images/bg-4.jpg);
+  background-repeat: no-repeat !important;
+  background-attachment: fixed;
+  background-size: cover !important;
+  background-position: center;
+  height: 500px;
+}
+.nav-link {
+  color: black;
+}
+
+.footer-link {
+  color: white;
+  text-decoration: none;
+}
+
+.footer1,
+.footer2 {
+  background-color: rgb(29, 28, 28);
+  color: azure;
+}
+.header {
+  background-color: #18191a;
+  color: white;
+  padding: 10px 0;
+}
+.line {
+  margin-top: 15px;
+}
+.logo1 {
+  vertical-align: middle;
+  position: relative;
+  height: 40px;
+  width: 170px;
+  border: none;
+}
+*/ .search-box {
+  flex-grow: 1;
+  margin: 0 20px;
+}
+
+.login-button {
+  background-color: #c9cc34;
+  color: white;
+  border: none;
+}
+
+.cart-icon {
+  font-size: 26px;
+  color: #d4d229;
+}
+
+.search-button {
+  background-color: #c9cc34;
+  border: none;
+}
+.copyright-symbol {
+  color: aliceblue !important;
+  height: 10px !important ;
+  width: 10px !important;
+}

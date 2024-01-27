@@ -1,0 +1,51 @@
+.background {
+  background: url(https://i.pinimg.com/564x/a0/c9/3c/a0c93c7b3322e49b873b6aeb395e957f.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+.nav-link {
+  color: black;
+}
+
+#heading1 {
+  margin-top: 150px;
+  justify-content: center;
+  color: white;
+  font-weight: bolder;
+  font-size: 60px;
+  font-family: cursive;
+}
+.footer1,
+.footer2 {
+  background-color: rgb(29, 28, 28);
+  color: azure;
+}
+
+#para1 {
+  justify-content: center;
+  color: white;
+  font-weight: bolder;
+  font-family: cursive;
+}
+.line {
+  margin-top: 15px;
+}
+.footer-link {
+  color: white;
+  text-decoration: none;
+}
+
+/* featured product */
+.product image {
+  max-width: 50%;
+  height: 50px;
+  margin: 10px;
+}
+/* End featured product */
+.form-label {
+  color: black;
+  font-weight: bolder;
+}
